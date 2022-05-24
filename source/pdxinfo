@@ -1,6 +1,6 @@
-name=Template
-author=You
-description=This is template project
-bundleID=com.organization.package
+name=playdoot
+author=Kevin McGinn
+description=Playdate go DOOT
+bundleID=com.kmcginn.playdoot
 version=0.0.1
 buildNumber=1
